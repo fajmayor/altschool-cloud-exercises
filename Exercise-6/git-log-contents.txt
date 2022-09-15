@@ -1,0 +1,149 @@
+commit a8a144b6403bb65807b2041062a5db8a1dc44db4
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 13:07:52 2022 +0100
+
+    Exercise-4 added
+
+commit 91d87d5e9162691780b262fda54f4aadb377c9ee
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 12:37:20 2022 +0100
+
+    Exercise-3 done
+
+commit 5b58d13cc86d8fcf0365de09b9d7d21be1ff9068
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 10:45:42 2022 +0100
+
+    remove test file
+
+commit 4667fb2020fb6b4f106578f4492f5e3471a43256
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 10:43:45 2022 +0100
+
+    removed test file
+
+commit 7d20e5780455bcab39ae0ad2e293bd513feb02b3
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 10:41:46 2022 +0100
+
+    Exercise-2 done
+
+commit 4500f01b73632724cc92cfbdf7e34a3d0ab74458
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 09:45:03 2022 +0100
+
+    vagrantfile added
+
+commit 0334c91f3426092d06810a395144c10ad04ef3e2
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 09:38:33 2022 +0100
+
+    Remove test file
+
+commit fa9189dd94e5dace48bfe7be6884fbcfdaef2dbe
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 09:33:23 2022 +0100
+
+    ifconfig out added to Exercise 1
+
+commit 3de5159aaf71907efa7ffe95d9be056b39d4209e
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 09:03:51 2022 +0100
+
+    Removed test file
+
+commit 406701858edb4ac1af6c05fa6771165ff77ab885
+Merge: 77176fe 18cda3a
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 08:55:46 2022 +0100
+
+    Merge branch 'main' of github.com:fajmayor/altschool-cloud-exercises
+
+commit 77176fe7f94108d9c58aa2a20c6e50a7dcc0e8e5
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 14 08:50:42 2022 +0100
+
+    Test file removed
+
+commit 18cda3a8190a129c280c483b58cf35d1c3cd3d14
+Merge: 8a906a8 66f9200
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:39:32 2022 +0100
+
+    Merge branch 'main' of github.com:fajmayor/altschool-cloud-exercises into index-edit
+
+commit 8a906a8ce32c3a8a888e43d9457c2360c474d575
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:36:53 2022 +0100
+
+    exercise-1 latest added
+
+commit 66f92002374d2f1b1ef1fe341fbc43242a9ac57c
+Merge: 60b2570 0b67a34
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:33:35 2022 +0100
+
+    Merge branch 'main' of github.com:fajmayor/altschool-cloud-exercises
+
+commit 60b25705afc5788fae79b2f0ef020a87e4306f7b
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:24:54 2022 +0100
+
+    latest-3 file added
+
+commit 082dad5d5c18c5111599bad59679adb9d9bc710c
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:19:53 2022 +0100
+
+    latest-2 commit
+
+commit 2d0cc0c421464226449c893758d72d07b9d712b6
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:17:33 2022 +0100
+
+    latest file inside index-edit
+
+commit 0b67a34ffef369f0e02ccc73e5afaf3472882745
+Merge: 6eb5f9c 43c875a
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:14:51 2022 +0100
+
+    Merge pull request #1 from fajmayor/index-edit
+    
+    Index edit
+
+commit 43c875a17606c397752d9fcaffc38a4ca7b37d75
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 15:08:48 2022 +0100
+
+    exercise3/index.go added
+
+commit 6eb5f9c1163205e01d8b1f3efab1d0a88eabc34a
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 14:19:54 2022 +0100
+
+    Files added
+
+commit 55907c15d33f9bf373aaeccb0bccf3f8526fd09a
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 13:42:45 2022 +0100
+
+    index branch testing
+
+commit 367b848738d4b3a662c54b1edcfe9079be94e92c
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 13:37:40 2022 +0100
+
+    Remove the test file
+
+commit 137d57307ac6e4edd47972e70ecc2f8e9c6164b2
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 13:35:31 2022 +0100
+
+    Exercise 2 test
+
+commit f0451728d45b1ce223ba78f12a30a1770486fe66
+Author: Mayowa Fajube <fajmayor@gmail.com>
+Date:   Wed Sep 7 12:54:09 2022 +0100
+
+    testing file commit

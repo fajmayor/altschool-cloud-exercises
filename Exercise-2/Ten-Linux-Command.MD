@@ -1,0 +1,11 @@
+#**TEN LINUX COMMANDS**
+1. `env` : Displays all environment variables ![Env Command](env-command.png)
+2. `finger` Shows information of all the users logged in ![finger-command](finger-command.png)
+3. `ps` Give the status of processes running for a user ![ps-command](ps-command.png)
+4. `free` Gives free RAM on your system ![free-command](free-command.png)
+5. `uname` Display Linux system information ![uname-command](uname-command.png)
+6. `whoami` Who you are logged in as ![whoami-command](whoami-command.png)
+7. `locate` Find files and directories by name ![locate-command](locate-command.png)
+8. `hostname` Display the network address of the host name. ![hostname-command](hostname-command.png)
+9. `dig domain` Display DNS information for domain ![dig domain-command](dig-domain-command.png)
+10. `hdparm -i /dev/sda` Show info about disk sda ![hdparm-command](hdparm-command.png)

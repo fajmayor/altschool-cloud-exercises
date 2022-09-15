@@ -1,0 +1,4 @@
+origin	git@github.com:fajmayor/altschool-cloud-exercises.git (fetch)
+origin	git@github.com:fajmayor/altschool-cloud-exercises.git (push)
+origin-gitlab	https://gitlab.com/fajmayor/altschool-cloud-exercises.git (fetch)
+origin-gitlab	https://gitlab.com/fajmayor/altschool-cloud-exercises.git (push)
