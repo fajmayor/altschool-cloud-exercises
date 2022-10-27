@@ -1,0 +1,25 @@
+#Network IP, number of hosts, range of IP addresses and broadcast IP from `193.16.20.35/29` subnet 
+
+###- **NETWORK IP**
+From the giving ip address and subnet, `193.16.20` is already part of the network id because `29` is equivalent to `255.255.255.248` which means the first three 255s are used up and part of the netword id already.
+Bits calculation:
+35 ==>                             0 0 1 0 0 0 1 1
+4^th^ Octet mask bit of 29 ==>     1 1 1 1 1 0 0 0
+
+Therefore, from the calculation above:
+Network ID of `193.16.20.35/29` is `193.16.20.32/29(255.255.255.248)`
+
+###- **NUMBER OF HOST**
+To calculate the number of host, the formular to use is 2^32-(cidr-subnet-no)^
+32 - 29 =3
+Therefore, the total number of host is **8**
+While the available number of host is total number of host - 2 which is **6**
+
+###- **RANGE OF IP ADDRESSES**
+Using the magic number format, 
+From 4^th^ Octet mask bit of 29 ==>     1 1 1 1 1 0 0 0, the magic number is **8**. i.e the decimal value of last ON bit.
+
+`193.16.20.32 - 193.16.20.39` is the range of IP addresses
+
+###- **BROADCAST ID**
+`193.16.20.39`
